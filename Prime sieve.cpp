@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-//https://www.youtube.com/watch?v=yB57bcffJo4
 void sieve(int n){
     if(n<2){return ;}
     int arr[n+1];
